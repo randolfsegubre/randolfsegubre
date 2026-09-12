@@ -24,10 +24,11 @@ Senior analyst on a claims/package processing system built on ASP.NET Core and R
 
 #### Side projects
 
+- **[Lakbay](https://github.com/randolfsegubre/Lakbay.Docs)** — A Philippines-first holiday-booking platform, built as a real 8-repo system rather than a single demo: Umbraco 18 CMS, a headless Next.js storefront, a CQRS booking service with a race-safe atomic availability decrement, a denormalized GraphQL search API synced over Azure Service Bus, and a second front-end client — a WPF call-center agent desktop talking to an ABP/Hangfire/Redis/SignalR backend, confirming bookings over gRPC. Start at [Lakbay.Docs](https://github.com/randolfsegubre/Lakbay.Docs) for the architecture and how the repos fit together.
+- **[BudgetPH](https://github.com/randolfsegubre/BudgetPH)** — Full-stack personal finance manager for Filipino users and OFWs. .NET 10 Clean Architecture API + React/Vite frontend, single repo.
 - **[ai-tutor](https://github.com/randolfsegubre/ai-tutor)** — Local-LLM-powered study app: Blazor WebAssembly + ASP.NET Core 10 + Semantic Kernel + Ollama, JWT auth, encrypted API key vault.
-- **[BudgetPH](https://github.com/randolfsegubre/BudgetPH)** / **[BudgetPH-Web](https://github.com/randolfsegubre/BudgetPH-Web)** — Full-stack personal finance manager for Filipino users and OFWs. .NET 10 Clean Architecture API + React/Vite frontend.
-- **[DevHub](https://github.com/randolfsegubre/DevHub)** — LAN-only dashboard for my dev drive: Blazor + Minimal API, a from-scratch APK metadata parser, path-traversal-guarded file access.
 - **[ecommerce-ai](https://github.com/randolfsegubre/ecommerce-ai)** — Clean Architecture e-commerce API with AI-integration hooks, MediatR, domain events.
+- **[DevHub](https://github.com/randolfsegubre/DevHub)** — LAN-only dashboard for my dev drive: Blazor + Minimal API, a from-scratch APK metadata parser, path-traversal-guarded file access.
 - **[dotnet-assessment-reviewer](https://github.com/randolfsegubre/dotnet-assessment-reviewer)** — A 28-topic senior .NET/full-stack reference I wrote and maintain, with mock exams.
 
 📍 Quezon City, Metro Manila, Philippines · [LinkedIn](https://linkedin.com/in/rsegubre)
