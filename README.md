@@ -22,6 +22,12 @@ Senior analyst on a claims/package processing system built on ASP.NET Core and R
 
 ---
 
+#### Freelance (client agreed to share code/architecture)
+
+- **[Ophir Mineral Ventures](https://github.com/randolfsegubre/OphirMineralVentures)** — Compliance/marketing website for a Philippines-based nickel and chromite ore exporter, currently in development (not yet live). Umbraco 18 on .NET 10, bilingual English/Simplified Chinese content model, hand-built contact form (anti-forgery, honeypot, rate-limiting) in place of a paid forms package, CMS-editable 404 page so the non-technical owner can rewrite it himself. Real business content (registration numbers, figures, buyer details) lives in the client's own database, never in the repository — the code shown here never contained it.
+
+---
+
 #### Side projects
 
 - **[Lakbay](https://github.com/randolfsegubre/Lakbay.Docs)** — A Philippines-first holiday-booking platform, built as a real 8-repo system rather than a single demo: Umbraco 18 CMS, a headless Next.js storefront, a CQRS booking service with a race-safe atomic availability decrement, a denormalized GraphQL search API synced over Azure Service Bus, and a second front-end client — a WPF call-center agent desktop talking to an ABP/Hangfire/Redis/SignalR backend, confirming bookings over gRPC. Start at [Lakbay.Docs](https://github.com/randolfsegubre/Lakbay.Docs) for the architecture and how the repos fit together.
