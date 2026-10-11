@@ -1,6 +1,6 @@
 ### Hi, I'm Randolf — Senior Full-Stack .NET Developer
 
-9+ years building and modernizing web platforms for travel, healthcare, and finance companies — most recently leading the .NET 8 + Umbraco 13 modernization of a high-traffic booking platform with zero downtime. I also run an AI-assisted engineering practice on my teams: 4 coding assistants and 3 custom MCP integrations in day-to-day use.
+9+ years building and modernizing web platforms for travel and healthcare companies, most recently contributing to the .NET 8 + Umbraco 13 modernization of a high-traffic booking platform with zero downtime. I also keep a personal AI-assisted engineering setup that I use every day: GitHub Copilot and Claude Code, with three Model Context Protocol (MCP) server integrations.
 
 **Stack:** C# · .NET 8/9/10 · ASP.NET Core · EF Core · Clean Architecture · MediatR · React · Vue.js · Blazor · SQL Server · Azure DevOps
 
@@ -8,8 +8,8 @@
 
 #### Selected work (enterprise, NDA'd — no proprietary code shown)
 
-**Travel — Cloud Employee, client HotelPlan UK** (2024–present)
-Modernized a high-traffic booking platform to .NET 8 + Umbraco 13 with zero downtime; hardened application security with a Content Security Policy.
+**Travel — Cloud Employee, client HotelPlan UK** (June 2024 to August 2026)
+Contributed to modernizing a high-traffic booking platform to .NET 8 + Umbraco 13 with zero downtime; took the initiative on hardening application security with a Content Security Policy.
 
 **Healthcare — Accenture, client UnitedHealth Group** (2022–2024)
 Senior analyst on a claims/package processing system built on ASP.NET Core and Razor Pages.
@@ -32,4 +32,4 @@ Senior analyst on a claims/package processing system built on ASP.NET Core and R
 - **[DevHub](https://github.com/randolfsegubre/DevHub)** — LAN-only dashboard for my dev drive: Blazor + Minimal API, a from-scratch APK metadata parser, path-traversal-guarded file access.
 - **[dotnet-assessment-reviewer](https://github.com/randolfsegubre/dotnet-assessment-reviewer)** — A 28-topic senior .NET/full-stack reference I wrote and maintain, with mock exams.
 
-📍 Quezon City, Metro Manila, Philippines · [LinkedIn](https://linkedin.com/in/rsegubre)
+📍 Quezon City, Metro Manila, Philippines · [Portfolio](https://randolfsegubre.github.io) · [LinkedIn](https://linkedin.com/in/rsegubre)
