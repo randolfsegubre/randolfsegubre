@@ -1,4 +1,4 @@
-### Hi, I'm Randolf — Senior Full-Stack .NET Developer
+### Hi, I'm Randolf — Full-Stack .NET Developer
 
 9+ years building and modernizing web platforms for travel and healthcare companies, most recently contributing to the .NET 8 + Umbraco 13 modernization of a high-traffic booking platform with zero downtime. I also keep a personal AI-assisted engineering setup that I use every day: GitHub Copilot and Claude Code, with three Model Context Protocol (MCP) server integrations.
 
